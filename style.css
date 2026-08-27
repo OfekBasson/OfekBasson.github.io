@@ -139,8 +139,9 @@ a:hover { text-decoration: underline; }
   margin: 0 8px;
 }
 
-main {
-  padding: 24px 24px 16px;
+main.wrap {
+  padding-top: 24px;
+  padding-bottom: 16px;
 }
 
 section {
@@ -261,5 +262,5 @@ footer {
 @media (max-width: 600px) {
   .hero { padding: 48px 0 32px; }
   .hero h1 { font-size: 1.9rem; }
-  main { padding: 24px 20px 16px; }
+  main.wrap { padding-left: 20px; padding-right: 20px; }
 }
