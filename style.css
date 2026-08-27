@@ -123,6 +123,12 @@ section ul {
   margin: 0;
 }
 
+.section-note {
+  color: var(--text-muted);
+  margin: -8px 0 20px;
+  font-size: 0.95rem;
+}
+
 section li {
   margin-bottom: 8px;
 }
