@@ -1,6 +1,6 @@
 # ofekbasson.github.io
 
-Personal website for Ofek Basson — Software Engineer & Generative AI Researcher.
+Personal website for Ofek Basson, Generative AI Researcher.
 
 Static site (`index.html` + `style.css`, no build step), served automatically by GitHub Pages
 at [ofekbasson.github.io](https://ofekbasson.github.io) since this repo follows GitHub's
