@@ -81,6 +81,11 @@ a {
 }
 a:hover { text-decoration: underline; }
 
+.plain-link {
+  color: inherit;
+  text-decoration: underline;
+}
+
 .hero {
   padding: 64px 0 40px;
   background: var(--bg-alt);
