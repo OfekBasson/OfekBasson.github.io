@@ -202,16 +202,6 @@ section li {
   white-space: nowrap;
 }
 
-.skills-grid {
-  display: grid;
-  gap: 10px;
-}
-
-.skill-label {
-  font-weight: 600;
-  margin-right: 6px;
-}
-
 .pub-card {
   background: var(--card-bg);
   border: 1px solid var(--border);
