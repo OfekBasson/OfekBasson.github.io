@@ -7,8 +7,6 @@
   --accent: #8a4b2e;
   --accent-text: #ffffff;
   --card-bg: #ffffff;
-  --btn-disabled-bg: #ece8e0;
-  --btn-disabled-text: #9a948a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,8 +19,6 @@
     --accent: #d98a5f;
     --accent-text: #161513;
     --card-bg: #1d1c19;
-    --btn-disabled-bg: #26241f;
-    --btn-disabled-text: #6f6a60;
   }
 }
 
@@ -35,8 +31,6 @@
   --accent: #d98a5f;
   --accent-text: #161513;
   --card-bg: #1d1c19;
-  --btn-disabled-bg: #26241f;
-  --btn-disabled-text: #6f6a60;
 }
 
 * { box-sizing: border-box; }
@@ -244,13 +238,6 @@ section li {
   color: var(--accent-text);
 }
 .btn:hover { text-decoration: none; opacity: 0.9; }
-
-.btn-disabled {
-  background: var(--btn-disabled-bg);
-  color: var(--btn-disabled-text);
-  cursor: default;
-}
-.btn-disabled:hover { opacity: 1; }
 
 footer {
   padding: 32px 0 56px;
