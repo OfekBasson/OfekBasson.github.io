@@ -8,8 +8,7 @@ at [ofekbasson.github.io](https://ofekbasson.github.io) since this repo follows 
 
 The "Project Page" link points to https://ofekbasson.github.io/FillMyMirror/
 (GitHub Pages for the [FillMyMirror](https://github.com/OfekBasson/FillMyMirror)
-repo). Update the "Paper" link in `index.html` (currently marked "under review") once the
-Fill My Mirror paper is public.
+repo). Its "Paper" button links to the arXiv version.
 
 The "This Should Be Reflected!" entry links to https://ofekbasson.github.io/ThisShouldBeReflected/
 (GitHub Pages for the [ThisShouldBeReflected](https://github.com/OfekBasson/ThisShouldBeReflected) repo).
